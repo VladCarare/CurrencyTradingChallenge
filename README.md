@@ -47,13 +47,17 @@ Finally, "tests.py" contains useful tests.
 # Installation
 
 conda create --name currencyChallenge
+
 conda activate currencyChallenge
+
 conda install matplotlib
+
 conda install pytest
 
 Alternatively use your favourite environment manager and do:
 
 pip install matplotlib
+
 pip install pytest
 
 # Test your code
