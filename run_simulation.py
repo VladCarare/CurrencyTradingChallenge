@@ -2,7 +2,7 @@
 Author: Vlad Carare
 Date: 14.04.2023
 Description:
-This is my solution for the coding challenge for the position of Research Scientist at InstaDeep. 
+This is my solution for the coding challenge for a position of Research Scientist. 
 The task is to find the best strategy for a currency trader to maxime profit in GBP, given a retrospective list of exchange rates for a number of currencies.
 """
 import os
